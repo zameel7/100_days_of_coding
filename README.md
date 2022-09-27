@@ -1,6 +1,6 @@
 # 100 Days of Coding
 
-![](https://geps.dev/progress/5)
+![](https://geps.dev/progress/6)
 
 - This repository is nothing special, but my way of pushing myself.
 - I've created this repository to store my thought process on the coding 
